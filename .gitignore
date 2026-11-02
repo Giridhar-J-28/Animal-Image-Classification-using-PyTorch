@@ -1,0 +1,12 @@
+# Local / editor files
+CLAUDE.md
+.vscode/
+.DS_Store
+
+# Dataset (download separately, see README)
+animal-faces/
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pth
